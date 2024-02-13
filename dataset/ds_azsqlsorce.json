@@ -1,0 +1,16 @@
+{
+	"name": "ds_azsqlsorce",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ls_azuresql",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzureSqlTable",
+		"schema": [],
+		"typeProperties": {
+			"schema": "dbo",
+			"table": "cricket"
+		}
+	}
+}
