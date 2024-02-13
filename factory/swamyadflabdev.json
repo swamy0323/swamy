@@ -1,0 +1,9 @@
+{
+	"name": "swamyadflabdev",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1dcc1764-dee0-497c-bc40-37382a1a9008",
+		"tenantId": "8e094d48-d1e0-4d2e-aa64-129fd4ef8572"
+	}
+}
